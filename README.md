@@ -2,6 +2,8 @@
 
 This project implements a Buy Now, Pay Later (BNPL) system using Flask and MySQL. It allows users to make purchases on credit and repay in full or through EMI plans. The system also calculates penalties for late payments and supports reporting capabilities.
 
+![Illustration of a smiling shopper in a coffee shop holding a credit card](static/images/hero-lady-coffee-card.svg)
+
 ---
 
 ## **Prerequisites**
